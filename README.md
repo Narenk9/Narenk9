@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data structures and algorithms (java) and development(web).
 - 💞️ I’m looking to collaborate on amazing organisations which will enhance my technical,team-work skills(after learning).
      Which will help me in getting insight of the tech/workculture around the globe.
-- 📫 How to reach me  at narenkarthikeya24@gmail.com,twitter-@Narenk99
+- 📫 How to reach me  at narenkarthikeya24@gmail.com, Linkedin = Naren Karthikeya
 <!---
 Narenk9/Narenk9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
