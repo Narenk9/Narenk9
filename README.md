@@ -4,7 +4,7 @@
 # Hi there, I'm Naren Karthikeya 👋
 
 ## About Me
-I’m @Narenk9, and I am currently a 3rd-year student pursuing a Bachelor's degree in Data Science at SNIST Hyderabad. 
+I am an Intern at Indium Software and a Final year student pursuing a Bachelor's degree in Data Science at SNIST Hyderabad. 
 
 ## Interests
 - **Data Science**
@@ -15,9 +15,9 @@ I’m @Narenk9, and I am currently a 3rd-year student pursuing a Bachelor's degr
 I am looking to work with amazing organizations to enhance my technical and teamwork skills, gain insights into the tech/work culture around the globe, and make meaningful contributions to the field of data science.
 
 ## Skills
-- **Programming Languages:** Python
-- **Data Visualization Tools:** Tableau
-- **Data Management:** SQL, Excel
+- Python
+- Tableau
+- SQL
 - **Projects:** 
   - **ANPR Computer Vision Project**
   - **Tableau Project**
