@@ -10,7 +10,7 @@ I am an Intern at Indium Software and a Final year student pursuing a Bachelor's
 - **Data Science**
 - **Machine Learning**
 - **Deep Learning**
-- **LLM**
+- **LLMs**
 - **AI**
 
 ## Goals
